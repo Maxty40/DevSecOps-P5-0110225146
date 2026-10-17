@@ -1,9 +1,9 @@
 # DevSecOps CI/CD Pipeline: Secure Task Management API with SonarCloud SAST
 
 > **Tugas Praktikum DevSecOps - Pertemuan 5**  
-> **Nama Mahasiswa:** [NAMA ANDA DI SINI] <!-- Silakan edit bagian ini -->  
-> **NIM:** [NIM ANDA DI SINI] <!-- Silakan edit bagian ini -->  
-> **Repository:** `devsecops-p5-[NIM-ANDA]` <!-- Silakan sesuaikan nama repo -->
+> **Nama Mahasiswa:** Dhiauddin Arfa
+> **NIM:** 0110225146
+> **Repository:** `devsecops-p5-0110225146`
 
 ---
 
@@ -155,3 +155,4 @@ Untuk mengaktifkan pemindaian SonarCloud pada repository Anda:
    git push -u origin main
    ```
 6. Buka tab **Actions** di repository GitHub Anda untuk melihat kedua job (`build` dan `sast-scan`) terpicu dan berjalan hingga selesai!
+

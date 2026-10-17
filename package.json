@@ -16,7 +16,7 @@
     "nodejs",
     "express"
   ],
-  "author": "Mahasiswa TI (NIM: YOUR_NIM_HERE)",
+  "author": "Dhiauddin Arfa",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
