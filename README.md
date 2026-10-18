@@ -3,7 +3,7 @@
 > **Tugas Praktikum DevSecOps - Pertemuan 5**  
 > **Nama Mahasiswa:** Dhiauddin Arfa
 > **NIM:** 0110225146
-> **Repository:** `devsecops-p5-0110225146`
+> **Repository:** `DevSecOps-P5-0110225146`
 
 ---
 
@@ -40,7 +40,7 @@ Fitur utama aplikasi mencakup:
 - **CI/CD Platform**: [GitHub Actions](https://github.com/features/actions) (Runner `ubuntu-latest`)
 - **SAST (Static Application Security Testing)**: [SonarCloud / SonarQube](https://sonarcloud.io/) via `SonarSource/sonarqube-scan-action`
 
-### Struktur File Source Code (Minimal 5 File Bermakna)
+### Struktur File Source Code
 
 Proyek ini memiliki struktur modular dengan 6 file source code utama di direktori `src/`:
 1. `src/server.js` — Entry point server HTTP dan penanganan graceful shutdown.
